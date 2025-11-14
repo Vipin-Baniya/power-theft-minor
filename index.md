@@ -1,3 +1,5 @@
+# Power Theft Detection
+
 # AI-Based Power Theft Pattern Detection Using Load Signature Analysis
 
 This repository contains a prototype end-to-end project for detecting electricity theft using load signature analysis and ML.
